@@ -1,5 +1,4 @@
 # GDevelop_Games
-# Game - Trump Mania 
 
 ### Created a project using:
 + GDevelop
