@@ -5,7 +5,10 @@
 + consultant assistance ChatGPT
 
 # Game - Trump Mania
-Demo version covering two levels in an endless loop.
+```diff
+! Demo version covering two levels in an endless loop.
+```
+
 
 ## Playing the game
 ##### How to play? </br>
