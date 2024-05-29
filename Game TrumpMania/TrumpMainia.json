@@ -25,7 +25,7 @@
     "author": "by Abaddon",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "/home/subtotal/Плот/WEB",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -1398,7 +1398,6 @@
         "smoothed": false,
         "userAdded": true
       },
-     
       {
         "file": "assets/sounds/burn.mp3",
         "kind": "audio",
@@ -1498,7 +1497,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7619362677197611,
+        "zoomFactor": 0.9610368693714733,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1548,9 +1547,9 @@
           "layer": "Background",
           "name": "bgSceneOne",
           "persistentUuid": "2d7e35d4-93d0-4e21-ab70-bb57688f8356",
-          "width": 1280,
+          "width": 1240,
           "x": -1,
-          "y": 1,
+          "y": 0,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1595,12 +1594,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 34,
+          "height": 37,
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "3aa24962-aecc-4aa2-91e3-8942d9c28b11",
-          "width": 1280,
-          "x": 1,
+          "width": 1243,
+          "x": -3,
           "y": 685,
           "zOrder": 3,
           "numberProperties": [],
@@ -1781,8 +1780,8 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "71f869cf-9d58-49db-aa86-1c85e252137b",
-          "width": 135,
-          "x": 3,
+          "width": 138,
+          "x": 0,
           "y": 254,
           "zOrder": 8,
           "numberProperties": [],
@@ -1849,9 +1848,9 @@
           "layer": "",
           "name": "NewPanelSprite",
           "persistentUuid": "02f6e28b-9b9d-48da-9b36-a21c24ae7ef0",
-          "width": 54,
-          "x": 1249,
-          "y": 0,
+          "width": 21,
+          "x": 1239,
+          "y": 1,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -1866,7 +1865,7 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "34b76d5c-52a7-4df8-a859-1f17e39630d3",
-          "width": 232,
+          "width": 189,
           "x": 1051,
           "y": 454,
           "zOrder": 8,
@@ -2019,7 +2018,7 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "71911514-2460-4831-8d8d-58464a0adc59",
-          "width": 576,
+          "width": 564,
           "x": 673,
           "y": 96,
           "zOrder": 8,
@@ -5066,6 +5065,48 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Wall buffer"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DoesSceneExist"
+              },
+              "parameters": [
+                "",
+                "\"GameSeceneOne\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NewPanelSprite"
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -6667,7 +6708,7 @@
           "layer": "Background",
           "name": "bgSceneOne",
           "persistentUuid": "2d7e35d4-93d0-4e21-ab70-bb57688f8356",
-          "width": 1280,
+          "width": 1261,
           "x": -21,
           "y": 1,
           "zOrder": 1,
@@ -6707,12 +6748,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 34,
+          "height": 36,
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "3aa24962-aecc-4aa2-91e3-8942d9c28b11",
-          "width": 1280,
-          "x": 1,
+          "width": 1058,
+          "x": -18,
           "y": 685,
           "zOrder": 3,
           "numberProperties": [],
@@ -6959,8 +7000,8 @@
           "layer": "",
           "name": "NewPanelSprite",
           "persistentUuid": "02f6e28b-9b9d-48da-9b36-a21c24ae7ef0",
-          "width": 54,
-          "x": 1249,
+          "width": 34,
+          "x": 1238,
           "y": 0,
           "zOrder": 14,
           "numberProperties": [],
@@ -6978,7 +7019,7 @@
           "persistentUuid": "b1045f34-4e60-4073-bf1f-ee469fa22d2a",
           "width": 68,
           "x": 1168,
-          "y": 257,
+          "y": 258,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -7010,8 +7051,8 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "c8ba93b2-90de-4802-bb67-5fa3bb8570a3",
-          "width": 505,
-          "x": 75,
+          "width": 508,
+          "x": 72,
           "y": 354,
           "zOrder": 8,
           "numberProperties": [],
@@ -7027,7 +7068,7 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "71911514-2460-4831-8d8d-58464a0adc59",
-          "width": 631,
+          "width": 622,
           "x": 618,
           "y": 96,
           "zOrder": 8,
@@ -7196,23 +7237,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "groundOneSceneOne",
-          "persistentUuid": "88ce878c-fd13-4374-8f21-345129b1af04",
-          "width": 110,
-          "x": 977,
-          "y": 397,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 37,
-          "keepRatio": true,
-          "layer": "",
-          "name": "groundOneSceneOne",
           "persistentUuid": "224099ea-67ee-4ae6-8301-31ca44331695",
           "width": 53,
           "x": 631,
@@ -7226,14 +7250,14 @@
           "angle": 90,
           "customSize": true,
           "depth": 1,
-          "height": 211,
+          "height": 199,
           "keepRatio": true,
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "309ada43-6556-4404-b74e-69420aa933a4",
-          "width": 216,
-          "x": 1039,
-          "y": 471,
+          "width": 252,
+          "x": 1015,
+          "y": 495,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -7282,8 +7306,8 @@
           "layer": "",
           "name": "groundOneSceneOne",
           "persistentUuid": "ce1d8704-3f15-4a9d-b7a8-400a75e1d3b5",
-          "width": 95,
-          "x": 3,
+          "width": 114,
+          "x": -13,
           "y": 159,
           "zOrder": 8,
           "numberProperties": [],
@@ -9980,6 +10004,48 @@
                 "",
                 "50",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Wall buffer"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DoesSceneExist"
+              },
+              "parameters": [
+                "",
+                "\"GameSeceneOne\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NewPanelSprite"
               ]
             }
           ]
