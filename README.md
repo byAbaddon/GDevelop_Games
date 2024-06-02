@@ -25,7 +25,7 @@ soon
 
 ## ========================================================
 # Game - Spice Battle
-A spaceship that you control fights in the endless space with a fleet of UFO flying saucers.
+- A spaceship that you control fights in the endless space with a fleet of UFO flying saucers.
 Captivating music and effects.
 ```diff
 ! Demo version covering two levels in an endless loop.
