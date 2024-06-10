@@ -32,7 +32,7 @@ Captivating music and effects.
 ```
 ## Playing the game
 ##### How to play? </br>
-soon info 
+Arrow controls: left, right, up and spicebar shooting.
 ## Short video intro:
 soon
 
