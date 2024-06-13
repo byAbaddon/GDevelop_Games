@@ -12,7 +12,7 @@
 
 ## Playing the game
 ##### How to play? </br>
-soon info 
+Arrow controls: left, right, and spicebar jump.
 ## Short video intro:
 soon
 
