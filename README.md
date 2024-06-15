@@ -31,13 +31,12 @@ Captivating music and effects.
 + Four levels in an endless loop.
 ```
 ## Playing the game
-You are the pilot of a spaceship traveling through interstellar space.
-On your way, you encounter enemy UFOs - fleets with which you enter into battle and finally face the final battle with the mother ship.
-If you defeat him, the game starts over, with the level of speed and shooting at enemy objects increasing with each subsequent level.
-Captivating music and effects.
+You are the pilot of a spaceship traveling through interstellar space. On your way, you encounter enemy UFO fleets, with which you enter into battle and finally face the final battle with the mother ship.
+If you defeat him, the game starts over, continuing to score points as long as you can. Captivating music and effects.
 Enjoy
+
 ##### How to play? </br>
-Arrow controls: left, right, up and spicebar shooting.
+Arrow controls: left, right, up and shoot with spacebar.
 ## Short video intro:
 soon
 
