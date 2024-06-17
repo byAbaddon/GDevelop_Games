@@ -8,6 +8,10 @@
 ```diff
 ! Demo version covering two levels in an endless loop.
 ```
+You are in the role of the cartoon character Donald Trump.
+Your goal is to get to the door /exit of the level/, and for this you need to get a key, being careful of the emigrants chasing you who want to capture you.
+During the levels, you can collect bonus coins.
+The game requires logic to pass each new one.
 
 
 ## Playing the game
