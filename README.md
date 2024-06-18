@@ -16,7 +16,7 @@ The game requires logic to pass each new one.
 
 ## Playing the game
 ##### How to play? </br>
-Arrow controls: left, right, and spicebar jump.
+Arrow controls: left, right, and spacebar jump.
 ## Short video intro:
 soon
 
