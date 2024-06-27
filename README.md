@@ -21,7 +21,14 @@ Arrow controls: left, right, and spacebar jump.
 soon
 
 ## Screenshots:
-soon
+![0](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/3e378fa3-8690-4a3c-99a4-875bce06afed)
+![1](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/05138115-312e-43af-b479-c9117c824cd3)
+![2](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/8c421e8b-4959-45ca-987e-c98c3910b3cd)
+![3](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/d2f71784-fb42-468d-b35c-1512ba491161)
+![4](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/dee37ad5-54d9-440b-b16b-f7390f6d4afa)
+![5](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/e5dbc313-e324-4407-82d4-1e415f8469ea)
+
+
 
 ### Download
 ##### download apk file:
