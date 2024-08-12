@@ -18,7 +18,7 @@ The game requires logic to pass each new one.
 ##### How to play? </br>
 Arrow controls: left, right, and spacebar jump.
 ## Short video intro:
-soon
+(https://youtu.be/oXu4TrE6Uy8)
 
 ## Screenshots:
 ![0](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/3e378fa3-8690-4a3c-99a4-875bce06afed)
