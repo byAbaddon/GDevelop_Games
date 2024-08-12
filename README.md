@@ -2,7 +2,6 @@
 
 ### Created a project using:
 + GDevelop
-+ consultant assistance ChatGPT
 
 # Game - Trump Mania
 ```diff
