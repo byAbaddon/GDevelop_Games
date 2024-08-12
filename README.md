@@ -29,6 +29,8 @@ soon
 ![5](https://github.com/byAbaddon/GDevelop_Games/assets/51271834/e5dbc313-e324-4407-82d4-1e415f8469ea)
 
 
+## Play online
+https://gd.games/byabaddon/trump-mania
 
 ### Download
 ##### download apk file:
@@ -67,6 +69,8 @@ soon
 ![Снимка от 2024-08-13 00-02-05](https://github.com/user-attachments/assets/71feb2ff-8655-4068-abd4-d5751b0718b2)
 
 
+## Play online
+https://gd.games/byabaddon/space-battle
 
 ### Download
 ##### download apk file:
