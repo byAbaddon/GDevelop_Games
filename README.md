@@ -50,7 +50,7 @@ Enjoy
 ##### How to play? </br>
 Arrow controls: left, right, up and shoot with spacebar.
 ## Short video intro:
-soon
+https://youtu.be/2fPyYYkjTdE
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/29918214-0f74-40db-b9c7-3c9c8897f79b)
