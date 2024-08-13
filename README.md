@@ -32,8 +32,8 @@ https://youtu.be/oXu4TrE6Uy8
 https://gd.games/byabaddon/trump-mania
 
 ### Download
-##### download apk file:
-soon
+##### download WEB.zip file:
+https://github.com/byAbaddon/GDevelop_Games/releases/tag/Releases
 
 ## ========================================================
 # Game - Space Battle
@@ -72,8 +72,8 @@ https://youtu.be/2fPyYYkjTdE
 https://gd.games/byabaddon/space-battle
 
 ### Download
-##### download apk file:
-soon
+##### download WEB.zip file:
+https://github.com/byAbaddon/GDevelop_Games/releases/tag/Releases
 
 ### Prerequisites
 - [GDevelop](https://gdevelop.io)
